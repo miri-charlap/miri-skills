@@ -1,0 +1,18 @@
+{
+  "name": "miri-skills",
+  "description": "סקילים לכתיבת תוכן ויראלי לעסק עיצוב בקליק — לבנתי",
+  "version": "1.0.0",
+  "author": {
+    "name": "Miri Charlap",
+    "url": "https://www.instagram.com/miri_charlap"
+  },
+  "keywords": [
+    "hebrew",
+    "content",
+    "viral",
+    "interior-design",
+    "marketing",
+    "levanti"
+  ],
+  "license": "MIT"
+}

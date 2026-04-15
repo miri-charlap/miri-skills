@@ -1,0 +1,27 @@
+{
+  "name": "miri-skills",
+  "owner": {
+    "name": "Miri Charlap",
+    "url": "https://www.instagram.com/miri_charlap"
+  },
+  "metadata": {
+    "description": "Skills for Claude Code — עיצוב בקליק by Miri Charlap",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "miri-skills",
+      "source": "./plugins/miri-skills",
+      "description": "סקילים לכתיבת תוכן ויראלי לעסק עיצוב בקליק — לבנתי",
+      "version": "1.0.0",
+      "category": "marketing",
+      "tags": [
+        "hebrew",
+        "content",
+        "viral",
+        "interior-design",
+        "marketing"
+      ]
+    }
+  ]
+}
