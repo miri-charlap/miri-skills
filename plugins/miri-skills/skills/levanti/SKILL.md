@@ -1,5 +1,5 @@
 ---
-name: levanti
+name: לבנתי- להתפוצץ ברשת
 description: Use when creating viral content, video scripts, reels, posts, stories, or carousels for Miri Charlap (עיצוב בקליק). Activates Levanti — a viral content assistant based on the Levant Method. Also triggered by "לבנתי", "להתפוצץ ברשת", "תוכן ויראלי".
 ---
 
